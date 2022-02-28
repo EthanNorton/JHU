@@ -3,7 +3,8 @@
 $+-ABC+D-EF
 -*A$B+C-DE*EF
 **A+BC+C-BA
-/A+BC +C*BA  
+/A+BC +C*BA
+/A+BC +C*B!
 *-*-ABC+BA  
 /+/A-BC-BA  
 *$A+BC+C-BA 
