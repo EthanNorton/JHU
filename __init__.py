@@ -29,6 +29,21 @@ from StackOfIntegers import stack13
   stack1.push(+)
   stack1.push(B)
   stack1.push(A)
+  stack1 # do i need to explain the logic? for all the variables?
+  
+  # Converting stack2 to postfix 
+  stack2.pop(-)
+  stack2.pop(A)
+  stack2.pop(+)
+  stack2.pop(B)
+  stack2.pop(C)
+  stack2.push(-)
+  stack2.push(+)
+  stack2.push(A)
+  stack2.push(B)
+  stack2.push(C)
+  
+  
   
   
 
