@@ -19,5 +19,16 @@ from StackOfIntegers import stack12
 from StackOfIntegers import stack13
 
 # Converting stack1 to postfix 
-
+  stack1.pop(-)
+  stack1.pop(+)
+  stack1.pop(A)
+  stack1.pop(B)
+  stack1.pop(C)
+  stack1.push(-)
+  stack1.push(C)
+  stack1.push(+)
+  stack1.push(B)
+  stack1.push(A)
+  
+  
 
