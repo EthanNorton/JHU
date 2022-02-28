@@ -1,3 +1,3 @@
 #Ethan Norton
-# python 
+# This code utilizes Google colab, which runs through Jupyter notebook.
 
