@@ -1,7 +1,6 @@
 # Stack using Python List
-  # This utilizes a LIFO data structure (last in first out).
   # append pushes an item in the stack (will do row by row from the iinput file).
-  # pop removes an item from the stack, and will be utilized to convert prefix to postfix. 
+  # pop removes an item from the stack, and will be utilized to convert.
 
  # Prefix to Postfix Stack1
 
