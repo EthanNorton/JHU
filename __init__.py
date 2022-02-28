@@ -24,6 +24,7 @@ from StackOfIntegers import stack13
   stack1.pop(A)
   stack1.pop(B)
   stack1.pop(C)
+  
   stack1.push(-)
   stack1.push(C)
   stack1.push(+)
@@ -31,12 +32,14 @@ from StackOfIntegers import stack13
   stack1.push(A)
   stack1 # do i need to explain the logic? for all the variables?
   
+  
   # Converting stack2 to postfix 
   stack2.pop(-)
   stack2.pop(A)
   stack2.pop(+)
   stack2.pop(B)
   stack2.pop(C)
+  
   stack2.push(-)
   stack2.push(+)
   stack2.push(A)
@@ -44,6 +47,76 @@ from StackOfIntegers import stack13
   stack2.push(C)
   
   
+  # Converting stack3 to postfix 
+  stack3.pop($)
+  stack3.pop(+)
+  stack3.pop(-)
+  stack3.pop(A)
+  stack3.pop(B)
+  stack3.pop(C)
+  stack3.pop(+)
+  stack3.pop(D)
+  stack3.pop(-)
+  stack3.pop(E)
+  stack3.pop(F)
   
+  ### It is not possible to push this entire prefix into postfix. 
+    ### Therefore, the remainder of the code will only convert the postfix equivalent. 
+      ### Consider this 1. as a failed case & 2. Dealing with wild input. 
   
+  stack3.push(D)
+  stack3.push(E)
+  stack3.push(F)
+  stack3.push(-)
+  stack3.push(+)
+  
+  # Converting stack4 to postfix 
+  stack4.pop(-)
+  stack4.pop(*)
+  stack4.pop(A)
+  stack4.pop($)
+  stack4.pop(B)
+  stack4.pop(+)
+  stack4.pop(C)
+  stack4.pop(-)
+  stack4.pop(D)
+  stack4.pop(E)
+  stack4.pop(*)
+  stack4.pop(E)
+  stack4.pop(F)
 
+  ### It is not possible to push this entire prefix into postfix. 
+    ### Therefore, the remainder of the code will only convert the postfix equivalent. 
+      ### Consider this 1. as a failed case & 2. Dealing with wild input. 
+  
+  stack3.push(E)
+  stack3.push(F)
+  stack3.push(*)
+  
+  #Converting stack5 to postfix 
+  
+  ## popping the variables out of postfix 
+ stack5.pop(*)
+ stack5.pop(*)
+ stack5.pop(A)
+ stack5.pop(+)
+ stack5.pop(B)
+ stack5.pop(C)
+ stack5.pop(+)
+ stack5.pop(C)
+ stack5.pop(-)
+ stack5.pop(B)
+ stack5.pop(A)
+  
+  ## pushing the variables into prefix
+ stack5.pop(*)
+ stack5.pop(*)
+ stack5.pop(A)
+ stack5.pop(+)
+ stack5.pop(B)
+ stack5.pop(C)
+ stack5.pop(+)
+ stack5.pop(C)
+ stack5.pop(-)
+ stack5.pop(B)
+ stack5.pop(A)
