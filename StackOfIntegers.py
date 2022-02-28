@@ -1,8 +1,21 @@
 # Stack using Python List
-  # append pushes an item in the stack (will do row by row from the iinput file).
-  # pop removes an item from the stack, and will be utilized to convert.
+  # append pushes an item in the stack (will do row by row from the input file).
 
- # Prefix to Postfix Stack1
+# Reading The file, so it is inputable into various stacks
+f = open('in.txt', 'r') #This reads the file.
+f = Path('in.txt')
+with f.open('r') as opened_file: #Looks at the file
+    while True:
+        char = opened_file.read(1) #Reads Characters
+        if not char:
+            print("End of file") 
+            break
+        elif char == '\n':
+            print("----New Line----") #This ends the line of the stack
+        else:
+            print(f"Read this char: {char}")  #This displays the character in the given stack 
+
+
 
 # Inputing the stack1
 stack1 = list()
@@ -14,7 +27,7 @@ stack1 = list()
   print(stack1)
   
  
- # Inputing the stack2
+# Inputing the stack2
 stack2 = list()
   stack2.append(-)
   stack2.append(A)
