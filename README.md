@@ -11,7 +11,7 @@ Hello, reader. This is the README and will serve as a great way to access files 
 4. prefixtopostifx.py = the file which has the main programming of transforming the stacks from postfix to prefix, if possible.
 5. runtime_metric.py = the file which has the codings that contain proper runtimes that can be used for the code. 
 6. out.txt = the file which contains 
-7. ENanalysis.pdf = this wraps up and connects the projhect thorough analysis. Ideal to read first to capture the big picture in order to dive into each file. 
+7. ENanalysis.pdf = this wraps up and connects the project thorough analysis. Ideal to read first to capture the big picture in order to dive into each file. 
 
 
 # Order of Operations to run this code
