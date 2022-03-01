@@ -6,7 +6,7 @@
 
 # Reading The file, so it is inputable into various stacks
 # Copy and paste code sniper from blackboard.
-f = open('in.txt', 'r') #This reads the file.
+f = open('in.txt', 'r') #This reads the file. #change file name back
 f = Path('in.txt')
 with f.open('r') as opened_file: #Looks at the file
     while True:
@@ -17,8 +17,13 @@ with f.open('r') as opened_file: #Looks at the file
         elif char == '\n':
             print("----New Line----") #This ends the line of the stack
         else:
-            print(f"Read this char: {char}")  #This displays the character in the given stack  
+            print(f"Read this char: {char}")  #This displays the character in the given stack 
 
-globals.init()           # Call only once
-__init__.stuff()         # Do stuff with global var
-print settings.myList[0] # Check the result
+# inputting variables (stacks 1-13)
+
+import globals
+from StackOfIntegers import globals 
+from prefixtopostfix import globals
+from runtime_metric import ...
+
+
