@@ -1,5 +1,7 @@
 ### Ethan Norton
 
+import globals
+
 # Stack using Python List
   # Append pushes an item in the stack (will do row by row from the input file).
   # The purpose of this is to load up the stacks so that they are ready for programming! 
