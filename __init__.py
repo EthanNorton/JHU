@@ -1,7 +1,8 @@
-# Ethan Norton
+### Ethan Norton
 # This file converts the stacks from stacks that are now appended (prefix mode) into postfix mode.
   ## pop removes an item from the stack, and will be utilized to convert prefix to postfix.
   ## push adds one or more elements to the end of an array. 
+  ## This attempts to be as efficient as the knowledge available to the programmer (myself).
 
 # Importing different stacks
 from StackOfIntegers import stack1
