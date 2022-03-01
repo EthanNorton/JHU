@@ -19,6 +19,10 @@ from StackOfIntegers import stack11
 from StackOfIntegers import stack12
 from StackOfIntegers import stack13
 
+
+# Reverse stack1 for efficient popping (from append).
+Reverse(stack1)
+
 # Converting stack1 to postfix 
 
  ## popping the variables out of prefix 
@@ -37,6 +41,9 @@ from StackOfIntegers import stack13
   stack1 # do i need to explain the logic? for all the variables?
   
   
+# Reverse stack2 for efficient popping (from append).
+Reverse(stack2)
+
   # Converting stack2 to postfix 
   
    ## popping the variables out of prefix 
@@ -54,6 +61,9 @@ from StackOfIntegers import stack13
   stack2.push(C)
   
   
+# Reverse stack3 for efficient popping (from append).
+Reverse(stack3)
+
   # Converting stack3 to postfix 
   
   ## popping the variables out of prefix 
@@ -80,6 +90,9 @@ from StackOfIntegers import stack13
   stack3.push(-)
   stack3.push(+)
   
+# Reverse stack4 for efficient popping (from append).
+Reverse(stack4)
+
   # Converting stack4 to postfix 
   
   ## popping the variables out of prefix 
@@ -102,11 +115,14 @@ from StackOfIntegers import stack13
       ### Consider this 1. as a failed case & 2. Dealing with wild input. 
   
   ## pushing the variables into postfix
-  stack3.push(E)
-  stack3.push(F)
-  stack3.push(*)
+  stack4.push(E)
+  stack4.push(F)
+  stack4.push(*)
   
-  #Converting stack5 to postfix 
+# Reverse stack5 for efficient popping (from append).
+Reverse(stack5)
+
+  # Converting stack5 to postfix 
   
   ## popping the variables out of prefix 
  stack5.pop(*)
@@ -134,6 +150,8 @@ from StackOfIntegers import stack13
  stack5.push(+)
  stack5.push(*)
 
+# Reverse stack6 for efficient popping (from append).
+Reverse(stack6)
 
 # Converting stack6 to postfix 
 
@@ -149,26 +167,13 @@ from StackOfIntegers import stack13
  stack6.pop(*)
  stack6.pop(B)
  stack6.pop(A)
-  
-  
-## pushing the variables into postfix
-stack6.pop(/)
-stack6.pop(A)
-stack6.pop(+)
-stack6.pop(B)
-stack6.pop(C)
-stack6.pop( )
-stack6.pop(+)
-stack6.pop(C)
-stack6.pop(*)
-stack6.pop(B)
-stack6.pop(A)
 
 ### It is not possible to push this entire prefix into postfix. 
     ### Therefore, the remainder of the code will only convert the postfix equivalent. 
       ### Consider this 1. as a failed case & 2. Dealing with wild input. 
     ## I believe that the space in the stack seperates the two parts, will test this with removing a space from the next input set. 
-    
+ 
+## pushing the variables into postfix 
   stack6.push(+)
   stack6.push(C)
   stack6.push(*)
@@ -176,8 +181,11 @@ stack6.pop(A)
   stack6.push(A)
   
   
-  # Converting stack7 to postfix 
+# Reverse stack7 for efficient popping (from append).
+Reverse(stack7)
 
+  # Converting stack7 to postfix 
+  
 ## popping the variables out of prefix
   stack7.pop(/)
   stack7.pop(A)
@@ -202,6 +210,9 @@ stack6.pop(A)
   stack7.push(+)
   stack7.push(*)
   
+  
+ # Reverse stack8 for efficient popping (from append).
+Reverse(stack8)
   
   # Convert Stack8 to Postfix
   
@@ -230,6 +241,9 @@ stack6.pop(A)
   stack8.push(*)
   stack8.push(*)
   
+# Reverse stack9 for efficient popping (from append).
+Reverse(stack9)
+  
   # Convert Stack9 to postfix
   
   ## popping the variables out of prefix
@@ -255,6 +269,9 @@ stack6.pop(A)
   stack9.push(-)
   stack9.push(+)
   stack9.push(/)
+  
+# Reverse stack10 for efficient popping (from append).
+Reverse(stack10)
   
   # Convert Stack10 to postfix
   
@@ -282,6 +299,8 @@ stack6.pop(A)
   stack10.push(-)
   stack10.push(+)
   
+# Reverse stack11 for efficient popping (from append).
+Reverse(stack11)
   
   # Convert Stack11 to postfix
   
@@ -311,6 +330,9 @@ stack6.pop(A)
   stack11.push(-)
   stack11.push(/)
   
+# Reverse stack12 for efficient popping (from append).
+Reverse(stack12)
+  
   # Convert Stack12 to postfix
 
    ## popping the variables out of prefix
@@ -337,9 +359,13 @@ stack6.pop(A)
   stack12.push(-)
   stack12.push(+)
   
-  # Convert Stack12 to postfix
   
-  ## popping the variables out of prefix
+# Reverse stack13 for efficient popping (from append).
+Reverse(stack13)
+
+ # Convert Stack13 to postfix
+  
+ ## popping the variables out of prefix
   stack13.pop(+)
   stack13.pop(A)
   stack13.pop(B)
