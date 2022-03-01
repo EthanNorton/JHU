@@ -3,6 +3,7 @@
   ## pop removes an item from the stack, and will be utilized to convert prefix to postfix.
   ## push adds one or more elements to the end of an array. 
   ## This attempts to be as efficient as the knowledge available to the programmer (myself).
+  ## Not every stack was able to be converted to postfix. 
 
 # Importing different stacks
 import globals 
