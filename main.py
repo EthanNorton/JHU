@@ -5,6 +5,7 @@
 # This file combines all of the source code, and produces the output that is found in the output file.
 
 # Reading The file, so it is inputable into various stacks
+# Copy and paste code sniper from blackboard.
 f = open('in.txt', 'r') #This reads the file.
 f = Path('in.txt')
 with f.open('r') as opened_file: #Looks at the file
