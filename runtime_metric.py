@@ -3,7 +3,9 @@
 # Runtiume metric is used to process resource usage that is collected via name-value pair collcetion. 
     # Essentially, this measures a runtime's performance. 
     # In the context of this problem .... 
-    
+
+import globals
+import __init__
 import timeit
 
 def test(n):
