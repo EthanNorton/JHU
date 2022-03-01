@@ -1,2 +1,26 @@
 # Ethan Norton
 # Output contains all the required elements, is user friendly, formatted in a visually pleasing manner, and contains useful descriptive statistics about the results. 
+# Line 5 is stack 1, through line 18 which is stack 13.
+
+-C+BA
+-+ABC
+DEF-+ # This one was not able to fully be put into postfix
+EF* # This one was not able to fully be put into postfix
+ABC+*CBA-+*
++C*BA # This one was not able to fully be put into postfix
+
+# Descriptive Statistics, which are also found in the analysis file. 
+
+Descriptive Statistics:
+
+Operators Statistics: 
+Min operators: 1 (line 13).
+Max operators: 5 (multiple lines).
+
+Stack Statistics:
+Min stack size: 4
+Max stack size: 13
+
+% Stacks able to be fully converted from Prefix to Postfix: 
+%: ~46% (not a great statistic).
+All of them were able to at least partially be converted.
