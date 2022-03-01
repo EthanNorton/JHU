@@ -363,7 +363,7 @@ Reverse(stack13)
   ### It is not possible to push this entire prefix into postfix. 
     ### Therefore, the remainder of the code will only convert the postfix equivalent. 
       ### Consider this 1. as a failed case & 2. Dealing with wild input. 
-        ## I had no idea of the outcome, but thought how intersting it was that such a small tweak could change the outcome of stack1.
+        ## I had no idea of the outcome, but thought how interesting it was that such a small tweak could change the outcome of stack1.
         
    ## pushing the variables into postfix
   stack13.push(C)
