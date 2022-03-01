@@ -1,13 +1,17 @@
+### Ethan Norton
+# This file provides the input, that will be utilzied to fuel the rest of the project.
+
+
 -+ABC
 -A+BC
 $+-ABC+D-EF
 -*A$B+C-DE*EF
 **A+BC+C-BA
 /A+BC +C*BA
-/A+BC+C*BA
+/A+BC+C*BA ##This is a customized input 
 *-*-ABC+BA  
 /+/A-BC-BA  
 *$A+BC+C-BA 
 //A+B0-C+BA
 *$A^BC+C-BA	
-+ABC
++ABC ##This is also a customized input
