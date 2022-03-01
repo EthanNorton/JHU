@@ -1,8 +1,18 @@
 ### Ethan Norton
 
 # Description 
-
 Hello, reader. This is the README and will serve as a great way to acess files that are utilized in project 1.
+
+
+# Navigation through this 
+1. in.txt = the input that is received, with additional input from myself.
+2. Main.py = the main file the uploads the input, and launches the rest of the project.
+3. StackOfIntegers.py =  the file which loads the stacks for programming, and sets up the rest of the project.
+4. prefixtopostifx.py = the file which has the main programming of transforming the stacks from postfix to prefix, if possible.
+5. runtime_metric.py = the file which has the codings that contain proper runtimes that can be used for the code. 
+6. out.txt = the file which contains 
+7. ENanalysis.pdf = this wraps up and connects the projhect thorough analysis. Ideal to read first to capture the big picture in order to dive into each file. 
+
 
 # Order of Operations to run this code
 1. Go to [Google Colab](https://colab.research.google.com/) 
