@@ -5,7 +5,7 @@ Hello, reader. This is the README and will serve as a great way to access files 
 
 
 # Navigation through this 
-1. in.txt = the input that is received, with additional input from myself.
+1. some_file.txt = the input that is received, with additional input from myself.
 2. Main.py = the main file the uploads the input, and launches the rest of the project.
 3. StackOfIntegers.py =  the file which loads the stacks for programming, and sets up the rest of the project.
 4. prefixtopostifx.py = the file which has the main programming of transforming the stacks from postfix to prefix, if possible.
