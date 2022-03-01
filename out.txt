@@ -8,19 +8,32 @@ DEF-+ # This one was not able to fully be put into postfix
 EF* # This one was not able to fully be put into postfix
 ABC+*CBA-+*
 +C*BA # This one was not able to fully be put into postfix
+CBA+* # This one was not able to fully be put into postfix
+AB-C*BA+-** #check this out
+ABC-/BA-+/
+CBA-+ # This one was not able to fully be put into postfix
+AB0+/CBA+-/
+CBA-+ # This one was not able to fully be put into postfix
+C # This one was not able to fully be put into postfix
+
 
 # Descriptive Statistics, which are also found in the analysis file. 
 
-Descriptive Statistics:
-
 Operators Statistics: 
-Min operators: 1 (line 13).
-Max operators: 5 (multiple lines).
+Min prefix operators: 1 
+Max prefix operators: 5 
+
+Min postfix operators: 0 
+Max postfix operators:  
+
 
 Stack Statistics:
-Min stack size: 4
-Max stack size: 13
+Min prefix stack size: 4
+Max prefix stack size: 13
+
+Min postfix stack size: 1
+Max postfix stack size: 11
 
 % Stacks able to be fully converted from Prefix to Postfix: 
-%: ~46% (not a great statistic).
-All of them were able to at least partially be converted.
+%:  6/13 = ~46% (not a great statistic).
+  All of them were able to at least partially be converted.
