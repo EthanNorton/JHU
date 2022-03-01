@@ -3,6 +3,15 @@
 # This file combines all of the source code, and produces the output that is found in the output file.
   # This attempts to efficiently convert all prefix to postfix, through the stacks data structure. 
 
+import globals 
+import test 
+ 
+if __name__ == "__main__": 
+    globals.initialize() 
+    print( globals.num ) # print the initial value 
+    test.increment() 
+    print( globals.num ) # print the value after being modified within test.py 
+  
 # This will store the stack and allow data enhancement for data clarity. 
 stack = []
 
