@@ -5,19 +5,8 @@
   ## This attempts to be as efficient as the knowledge available to the programmer (myself).
 
 # Importing different stacks
-from StackOfIntegers import stack1
-from StackOfIntegers import stack2
-from StackOfIntegers import stack3
-from StackOfIntegers import stack4
-from StackOfIntegers import stack5
-from StackOfIntegers import stack6
-from StackOfIntegers import stack7
-from StackOfIntegers import stack8
-from StackOfIntegers import stack9
-from StackOfIntegers import stack10
-from StackOfIntegers import stack11
-from StackOfIntegers import stack12
-from StackOfIntegers import stack13
+import globals 
+import StackOfIntegers
 
 
 # Reverse stack1 for efficient popping (from append).
