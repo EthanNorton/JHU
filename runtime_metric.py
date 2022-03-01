@@ -1,8 +1,9 @@
 # Ethan Norton
 # This file displays various run time metrics that can be imported into a given jupyter notebook.
 # Runtiume metric is used to process resource usage that is collected via name-value pair collcetion. 
-    # Essentially, this measures a runtime's performance. 
-    # In the context of this problem this can be applied to various stacks (1-13).
+    ## Essentially, this measures a runtime's performance. 
+    ## In the context of this problem this can be applied to various stacks (1-13).
+    ## A lot of these should be able to be applied in future projects.
     
 import globals
 from StackOfIntegers import globals 
