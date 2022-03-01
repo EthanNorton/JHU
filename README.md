@@ -16,18 +16,22 @@ Hello, reader. This is the README and will serve as a great way to acess files t
   
  ### Architecting 
 
-I built this project in order to 
+I built this project in order to grow my knowledge of programming. Also, I hope to provide enhancements that will reduce coding pain of the JHU community.
 
 ### Purpose
-What problem does it solve?
+
+Efficiently (as possible) converts prefix to postfix. Ideally, all prefix would have been convertable. This was not possible in this project :(
 
 ### Lessons Learned
 
+Sometimes programming does not go as planned. Perserve through the bugs and try to nail the solution. Keep in mind that you are coding for a purpose greater than yourself.
 
 ### Uniqueness
-What makes your project stand out?
+
+I put all of my energy into my programming. I did my best, and almost always do my best in every project I attempt. This project is no exception. Where there are errors, I will attempt to resolve them.
 
 ### Additional Features
-If your project has a lot of features, consider adding a "Features" section and listing them here.
+
+My analysis is pretty thoughtful, in my opinion. 
 
 ### Please feel free to email me with questions: Ethannorton12@gmail.com :)
