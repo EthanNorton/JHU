@@ -19,12 +19,15 @@ from StackOfIntegers import stack12
 from StackOfIntegers import stack13
 
 # Converting stack1 to postfix 
+
+ ## popping the variables out of prefix 
   stack1.pop(-)
   stack1.pop(+)
   stack1.pop(A)
   stack1.pop(B)
   stack1.pop(C)
   
+   ## pushing the variables into postfix
   stack1.push(-)
   stack1.push(C)
   stack1.push(+)
@@ -34,12 +37,15 @@ from StackOfIntegers import stack13
   
   
   # Converting stack2 to postfix 
+  
+   ## popping the variables out of prefix 
   stack2.pop(-)
   stack2.pop(A)
   stack2.pop(+)
   stack2.pop(B)
   stack2.pop(C)
   
+  ## pushing the variables into postfix
   stack2.push(-)
   stack2.push(+)
   stack2.push(A)
@@ -48,6 +54,8 @@ from StackOfIntegers import stack13
   
   
   # Converting stack3 to postfix 
+  
+  ## popping the variables out of prefix 
   stack3.pop($)
   stack3.pop(+)
   stack3.pop(-)
@@ -64,6 +72,7 @@ from StackOfIntegers import stack13
     ### Therefore, the remainder of the code will only convert the postfix equivalent. 
       ### Consider this 1. as a failed case & 2. Dealing with wild input. 
   
+    ## pushing the variables into postfix
   stack3.push(D)
   stack3.push(E)
   stack3.push(F)
@@ -71,6 +80,8 @@ from StackOfIntegers import stack13
   stack3.push(+)
   
   # Converting stack4 to postfix 
+  
+  ## popping the variables out of prefix 
   stack4.pop(-)
   stack4.pop(*)
   stack4.pop(A)
@@ -89,13 +100,14 @@ from StackOfIntegers import stack13
     ### Therefore, the remainder of the code will only convert the postfix equivalent. 
       ### Consider this 1. as a failed case & 2. Dealing with wild input. 
   
+  ## pushing the variables into postfix
   stack3.push(E)
   stack3.push(F)
   stack3.push(*)
   
   #Converting stack5 to postfix 
   
-  ## popping the variables out of postfix 
+  ## popping the variables out of prefix 
  stack5.pop(*)
  stack5.pop(*)
  stack5.pop(A)
@@ -108,15 +120,235 @@ from StackOfIntegers import stack13
  stack5.pop(B)
  stack5.pop(A)
   
-  ## pushing the variables into prefix
- stack5.pop(*)
- stack5.pop(*)
- stack5.pop(A)
- stack5.pop(+)
- stack5.pop(B)
- stack5.pop(C)
- stack5.pop(+)
- stack5.pop(C)
- stack5.pop(-)
- stack5.pop(B)
- stack5.pop(A)
+  ## pushing the variables into postfix
+ stack5.push(A)
+ stack5.push(B)
+ stack5.push(C)
+ stack5.push(+)
+ stack5.push(*)
+ stack5.push(C)
+ stack5.push(B)
+ stack5.push(A)
+ stack5.push(-)
+ stack5.push(+)
+ stack5.push(*)
+
+
+# Converting stack6 to postfix 
+
+## popping the variables out of prefix
+ stack6.pop(/)
+ stack6.pop(A)
+ stack6.pop(+)
+ stack6.pop(B)
+ stack6.pop(C)
+ stack6.pop( )
+ stack6.pop(+)
+ stack6.pop(C)
+ stack6.pop(*)
+ stack6.pop(B)
+ stack6.pop(A)
+  
+  
+## pushing the variables into postfix
+stack6.pop(/)
+stack6.pop(A)
+stack6.pop(+)
+stack6.pop(B)
+stack6.pop(C)
+stack6.pop( )
+stack6.pop(+)
+stack6.pop(C)
+stack6.pop(*)
+stack6.pop(B)
+stack6.pop(A)
+
+### It is not possible to push this entire prefix into postfix. 
+    ### Therefore, the remainder of the code will only convert the postfix equivalent. 
+      ### Consider this 1. as a failed case & 2. Dealing with wild input. 
+    ## I believe that the space in the stack seperates the two parts, will test this with removing a space from the next input set. 
+    
+  stack6.push(+)
+  stack6.push(C)
+  stack6.push(*)
+  stack6.push(B)
+  stack6.push(A)
+  
+  
+  # Converting stack7 to postfix 
+
+## popping the variables out of prefix
+  stack7.pop(/)
+  stack7.pop(A)
+  stack7.pop(+)
+  stack7.pop(B)
+  stack7.pop(C)
+  stack7.pop(+)
+  stack7.pop(C)
+  stack7.pop(*)
+  stack7.pop(B)
+  stack7.pop(A)
+  
+  ### It is not possible to push this entire prefix into postfix. 
+    ### Therefore, the remainder of the code will only convert the postfix equivalent. 
+      ### Consider this 1. as a failed case & 2. Dealing with wild input. 
+    ### Previous hypothesis was incorrect. Still not able to convert the full stack to postfix.
+  
+  ## pushing the variables into postfix
+  stack7.push(C)
+  stack7.push(B)
+  stack7.push(A)
+  stack7.push(+)
+  stack7.push(*)
+  
+  
+  # Convert Stack8 to Postfix
+  
+  ## popping the variables out of prefix
+  stack8.pop(*)
+  stack8.pop(-)
+  stack8.pop(*)
+  stack8.pop(-)
+  stack8.pop(A)
+  stack8.pop(B)
+  stack8.pop(C)
+  stack8.pop(+)
+  stack8.pop(B)
+  stack8.pop(A)
+  
+  ## pushing the variables into postfix
+  stack8.push(A)
+  stack8.push(B)
+  stack8.push(-)
+  stack8.push(C)
+  stack8.push(*)
+  stack8.push(B)
+  stack8.push(A)
+  stack8.push(+)
+  stack8.push(-)
+  stack8.push(*)
+  stack8.push(*)
+  
+  # Convert Stack9 to postfix
+  
+  ## popping the variables out of prefix
+  stack9.pop(/)
+  stack9.pop(+)
+  stack9.pop(/)
+  stack9.pop(A)
+  stack9.pop(-)
+  stack9.pop(B)
+  stack9.pop(C)
+  stack9.pop(-)
+  stack9.pop(B)
+  stack9.pop(A)
+  
+   ## pushing the variables into postfix
+  stack9.push(A)
+  stack9.push(B)
+  stack9.push(C)
+  stack9.push(-)
+  stack9.push(/)
+  stack9.push(B)
+  stack9.push(A)
+  stack9.push(-)
+  stack9.push(+)
+  stack9.push(/)
+  
+  # Convert Stack10 to postfix
+  
+  ## popping the variables out of prefix
+  stack10.pop(*)
+  stack10.pop($)
+  stack10.pop(A)
+  stack10.pop(+)
+  stack10.pop(B)
+  stack10.pop(C)
+  stack10.pop(+)
+  stack10.pop(C)
+  stack10.pop(-)
+  stack10.pop(B)
+  stack10.pop(A)
+  
+  ### It is not possible to push this entire prefix into postfix. 
+    ### Therefore, the remainder of the code will only convert the postfix equivalent. 
+      ### Consider this 1. as a failed case & 2. Dealing with wild input. 
+  
+     ## pushing the variables into postfix
+  stack10.push(C)
+  stack10.push(B)
+  stack10.push(A)
+  stack10.push(-)
+  stack10.push(+)
+  
+  
+  # Convert Stack11 to postfix
+  
+  ## popping the variables out of prefix
+  stack11.pop(/)
+  stack11.pop(/)
+  stack11.pop(A)
+  stack11.pop(+)
+  stack11.pop(B)
+  stack11.pop(0)
+  stack11.pop(-)
+  stack11.pop(C)
+  stack11.pop(+)
+  stack11.pop(B)
+  stack11.pop(A)
+  
+   ## pushing the variables into postfix
+  stack11.push(A)
+  stack11.push(B)
+  stack11.push(0)
+  stack11.push(+)
+  stack11.push(/)
+  stack11.push(C)
+  stack11.push(B)
+  stack11.push(A)
+  stack11.push(+)
+  stack11.push(-)
+  stack11.push(/)
+  
+  # Convert Stack12 to postfix
+
+   ## popping the variables out of prefix
+  stack12.pop(*)
+  stack12.pop($)
+  stack12.pop(A)
+  stack12.pop(^)
+  stack12.pop(B)
+  stack12.pop(C)
+  stack12.pop(+)
+  stack12.pop(C)
+  stack12.pop(-)
+  stack12.pop(B)
+  stack12.pop(A)
+  
+  ### It is not possible to push this entire prefix into postfix. 
+    ### Therefore, the remainder of the code will only convert the postfix equivalent. 
+      ### Consider this 1. as a failed case & 2. Dealing with wild input. 
+      
+  ## pushing the variables into postfix
+  stack12.push(C)
+  stack12.push(B)
+  stack12.push(A)
+  stack12.push(-)
+  stack12.push(+)
+  
+  # Convert Stack12 to postfix
+  
+  ## popping the variables out of prefix
+  stack13.pop(+)
+  stack13.pop(A)
+  stack13.pop(B)
+  stack13.pop(C)
+  
+  ### It is not possible to push this entire prefix into postfix. 
+    ### Therefore, the remainder of the code will only convert the postfix equivalent. 
+      ### Consider this 1. as a failed case & 2. Dealing with wild input. 
+        ## I had no idea of the outcome, but thought how intersting it was that such a small tweak could change the outcome of stack1.
+        
+   ## pushing the variables into postfix
+  stack13.push(C)
+  
