@@ -1,5 +1,7 @@
 ### Ethan Norton
 # This file provides the input, that will be utilzied to fuel the rest of the project.
+# First uploaded in main.py file then extrapolated to the rest.
+# Note that lines 13 and 19 are the self created input lines. 
 
 
 -+ABC
