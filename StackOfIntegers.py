@@ -105,12 +105,11 @@ stack4 = list()
   stack7.append(+)
   stack7.append(B)
   stack7.append(C)
-  stack7.append( )
   stack7.append(+)
   stack7.append(C)
   stack7.append(*)
   stack7.append(B)
-  stack7.append(!)
+  stack7.append(A)
   print(stack7)
  
 # Inputing the stack8
