@@ -1,7 +1,7 @@
 ### Ethan Norton
 
 # Description 
-Hello, reader. This is the README and will serve as a great way to acess files that are utilized in project 1.
+Hello, reader. This is the README and will serve as a great way to access files that are utilized in project 1.
 
 
 # Navigation through this 
