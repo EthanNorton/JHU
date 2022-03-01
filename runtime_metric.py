@@ -16,11 +16,11 @@ def test(stackn): #insert stack number(n) here
 n = 10000
 loop = 1000
 
-result = timeit.timeit('test(n)', globals=globals(), number=loop) #import stackn where n represents the stack number.,
+result = timeit.timeit('test(stackn)', globals=globals(), number=loop) #import stackn where n represents the stack number. 
 print(result / loop)
-# 0.0002666301020071842  - this is an example that measures the execution time of a function.
+# 0.002341232  - this is an example that measures the execution time of a function.
 
-# different codes to capture various runtime metrics 
+# different codes to capture various runtime metrics in future projects.
 
 %time: Time the execution of a single statement
 %timeit: Time repeated execution of a single statement for more accuracy
