@@ -2,22 +2,25 @@
 # This file displays various run time metrics that can be imported into a given jupyter notebook.
 # Runtiume metric is used to process resource usage that is collected via name-value pair collcetion. 
     # Essentially, this measures a runtime's performance. 
-    # In the context of this problem .... 
+    # In the context of this problem this can be applied to various stacks (1-13).
     
 import globals
 from StackOfIntegers import globals 
 from prefixtopostfix import globals
+import timeit
 
-def test(n):
-    return sum(range(n))
+def test(stackn): #insert stack number(n) here
+    return sum(range(stackn)) #insert stack number (n) here
+
 
 n = 10000
 loop = 1000
 
-result = timeit.timeit('test(n)', globals=globals(), number=loop)
+result = timeit.timeit('test(n)', globals=globals(), number=loop) #import stackn where n represents the stack number.,
 print(result / loop)
-# 0.0002666301020071842
+# 0.0002666301020071842  - this is an example that measures the execution time of a function.
 
+# different codes to capture various runtime metrics 
 
 %time: Time the execution of a single statement
 %timeit: Time repeated execution of a single statement for more accuracy
