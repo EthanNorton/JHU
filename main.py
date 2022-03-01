@@ -6,18 +6,18 @@
 
 # Reading The file, so it is inputable into various stacks
 # Copy and paste code sniper from blackboard.
-f = open('in.txt', 'r') #This reads the file. #change file name back
-f = Path('in.txt')
-with f.open('r') as opened_file: #Looks at the file
+# Assumes there is a file called 'some_file.txt' in this directory
+test_file = Path('some_file.txt')
+with test_file.open('r') as opened_file:
     while True:
-        char = opened_file.read(1) #Reads Characters
+        char = opened_file.read(1)
         if not char:
-            print("End of file") 
+            print("End of file")
             break
         elif char == '\n':
-            print("----New Line----") #This ends the line of the stack
+            print("----New Line----")
         else:
-            print(f"Read this char: {char}")  #This displays the character in the given stack 
+            print(f"Read this char: {char}")
 
 # inputting variables (stacks 1-13)
 
