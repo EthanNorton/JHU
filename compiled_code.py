@@ -5,21 +5,11 @@
 
 import globals 
 import test 
- 
-if __name__ == "__main__": 
-    globals.initialize() 
-    print( globals.num ) # print the initial value 
-    test.increment() 
-    print( globals.num ) # print the value after being modified within test.py 
   
-# This will store the stack and allow data enhancement for data clarity. 
-stack = []
 
- operators = {'+', '-', '*', '/', '$'} #This includes all operators that will be displayed in this lab.
-# An additional error check in other cases beyond the above specified input would be to include other operators that are not shown in this input.
-  #For example, other inputs could possibly utilize the operators @,^,!,=...
-    #In this event, it would be important to edit the list of operators to fix this.
- 
+globals.init()          # Call only once
+__init__.stuff()         # Do stuff with global var
+print settings.myList[0] # Check the result
 
 #This is the beginning of source code.
 f = open('some_file.txt', 'r') #This reads the file.
