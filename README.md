@@ -6,12 +6,13 @@ Hello, reader. This is the README and will serve as a great way to access files 
 
 # Navigation through this 
 1. some_file.txt = the input that is received, with additional input from myself.
-2. Main.py = the main file the uploads the input, and launches the rest of the project.
-3. StackOfIntegers.py =  the file which loads the stacks for programming, and sets up the rest of the project.
-4. prefixtopostifx.py = the file which has the main programming of transforming the stacks from postfix to prefix, if possible.
-5. runtime_metric.py = the file which has the codings that contain proper runtimes that can be used for the code. 
-6. out.txt = the file which contains 
-7. ENanalysis.pdf = this wraps up and connects the project thorough analysis. Ideal to read first to capture the big picture in order to dive into each file. 
+2. globals.py = contains globals that can be imported into all files. ### globalization
+3. Main.py = the main file the uploads the input, and launches the rest of the project.
+4. StackOfIntegers.py =  the file which loads the stacks for programming, and sets up the rest of the project.
+5. prefixtopostifx.py = the file which has the main programming of transforming the stacks from postfix to prefix, if possible.
+6. runtime_metric.py = the file which has the codings that contain proper runtimes that can be used for the code. 
+7. out.txt = the file which contains 
+8. ENanalysis.pdf = this wraps up and connects the project thorough analysis. Ideal to read first to capture the big picture in order to dive into each file. 
 
 
 # Order of Operations to run this code
