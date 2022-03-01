@@ -6,7 +6,7 @@
 
 # Importing different stacks
 import globals 
-import StackOfIntegers
+from StackOfIntegers import globals
 
 
 # Reverse stack1 for efficient popping (from append).
