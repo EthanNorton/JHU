@@ -17,13 +17,14 @@ Hello, reader. This is the README and will serve as a great way to access files 
 
 # Order of Operations to run this code
 1. Go to [Google Colab](https://colab.research.google.com/) 
-2. Follow [this website](https://medium.com/analytics-vidhya/how-to-use-google-colab-with-github-via-google-drive-68efb23a42d) to properly utilize google colab as a shell terminal, and save to drive for interconnectednes across devices.
+2. Follow [this website](https://medium.com/analytics-vidhya/how-to-use-google-colab-with-github-via-google-drive-68efb23a42d) to properly utilize google colab as a shell terminal, and save to drive for interconnectedness across devices.
 3. The code should then be functionable.
 4. **Optional, check out the entire source code here:**
    a. [Entire Project 1](https://github.com/EthanNorton/JHU.625.202.git)
  
  ### Motivation 
-  The motivation for this project was to build data structures and algorithms skills, as well as dive into the computer science realm! 
+ 
+The motivation for this project was to build data structures and algorithms skills, as well as dive into the computer science realm! 
   
  ### Architecting 
 
