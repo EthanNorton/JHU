@@ -23,12 +23,11 @@ Reverse(stack1)
   stack1.pop(C)
   
    ## pushing the variables into postfix
-  stack1.push(-)
-  stack1.push(C)
-  stack1.push(+)
-  stack1.push(B)
   stack1.push(A)
-  stack1 # do i need to explain the logic? for all the variables?
+  stack1.push(B)
+  stack1.push(+)
+  stack1.push(C)
+  stack1.push(-)
   
   
 # Reverse stack2 for efficient popping (from append).
@@ -44,11 +43,11 @@ Reverse(stack2)
   stack2.pop(C)
   
   ## pushing the variables into postfix
-  stack2.push(-)
-  stack2.push(+)
   stack2.push(A)
   stack2.push(B)
   stack2.push(C)
+  stack2.push(+)
+  stack2.push(-)
   
   
 # Reverse stack3 for efficient popping (from append).
@@ -74,11 +73,7 @@ Reverse(stack3)
       ### Consider this 1. as a failed case & 2. Dealing with wild input. 
   
     ## pushing the variables into postfix
-  stack3.push(D)
-  stack3.push(E)
-  stack3.push(F)
-  stack3.push(-)
-  stack3.push(+)
+  stack3.push($)
   
 # Reverse stack4 for efficient popping (from append).
 Reverse(stack4)
@@ -105,9 +100,11 @@ Reverse(stack4)
       ### Consider this 1. as a failed case & 2. Dealing with wild input. 
   
   ## pushing the variables into postfix
-  stack4.push(E)
-  stack4.push(F)
+  stack4.push(A)
+  stack4.push($)
   stack4.push(*)
+  stack4.push(B)            
+  stack4.push(-)     
   
 # Reverse stack5 for efficient popping (from append).
 Reverse(stack5)
@@ -164,11 +161,11 @@ Reverse(stack6)
     ## I believe that the space in the stack seperates the two parts, will test this with removing a space from the next input set. 
  
 ## pushing the variables into postfix 
-  stack6.push(+)
-  stack6.push(C)
-  stack6.push(*)
-  stack6.push(B)
   stack6.push(A)
+  stack6.push(B)
+  stack6.push(C)
+  stack6.push(+)
+  stack6.push(/)
   
   
 # Reverse stack7 for efficient popping (from append).
@@ -194,11 +191,11 @@ Reverse(stack7)
     ### Previous hypothesis was incorrect. Still not able to convert the full stack to postfix.
   
   ## pushing the variables into postfix
-  stack7.push(C)
-  stack7.push(B)
   stack7.push(A)
+  stack7.push(B)
+  stack7.push(C)
   stack7.push(+)
-  stack7.push(*)
+  stack7.push(/)
   
   
  # Reverse stack8 for efficient popping (from append).
@@ -228,7 +225,6 @@ Reverse(stack8)
   stack8.push(A)
   stack8.push(+)
   stack8.push(-)
-  stack8.push(*)
   stack8.push(*)
   
 # Reverse stack9 for efficient popping (from append).
@@ -283,11 +279,9 @@ Reverse(stack10)
       ### Consider this 1. as a failed case & 2. Dealing with wild input. 
   
      ## pushing the variables into postfix
-  stack10.push(C)
-  stack10.push(B)
+  stack10.push($)
   stack10.push(A)
-  stack10.push(-)
-  stack10.push(+)
+  stack10.push(*)
   
 # Reverse stack11 for efficient popping (from append).
 Reverse(stack11)
@@ -343,13 +337,10 @@ Reverse(stack12)
       ### Consider this 1. as a failed case & 2. Dealing with wild input. 
       
   ## pushing the variables into postfix
-  stack12.push(C)
-  stack12.push(B)
+  stack12.push($)
   stack12.push(A)
-  stack12.push(-)
-  stack12.push(+)
-  
-  
+  stack12.push(*)
+ 
 # Reverse stack13 for efficient popping (from append).
 Reverse(stack13)
 
@@ -367,5 +358,7 @@ Reverse(stack13)
         ## I had no idea of the outcome, but thought how interesting it was that such a small tweak could change the outcome of stack1.
         
    ## pushing the variables into postfix
-  stack13.push(C)
+  stack13.push(A)
+  stack13.push(B)
+  stack13.push(+)
   
