@@ -3,29 +3,29 @@
 # Line 5 is stack 1, through line 18 which is stack 13.
 # Was checked for errors multiple times, and should be the correct output. 
 
--C+BA
--+ABC
-DEF-+ # This one was not able to fully be put into postfix
-EF* # This one was not able to fully be put into postfix
+AB+C-
+ABC+-
+$ # This one was not able to fully be put into postfix
+A$*B- # This one was not able to fully be put into postfix
 ABC+*CBA-+*
-+C*BA # This one was not able to fully be put into postfix
-CBA+* # This one was not able to fully be put into postfix
-AB-C*BA+-** #check this out
+ABC+/ # This one was not able to fully be put into postfix
+ABC+/ # This one was not able to fully be put into postfix (added input)
+AB-C*BA+-* #unsure on this one
 ABC-/BA-+/
-CBA-+ # This one was not able to fully be put into postfix
+$A* # This one was not able to fully be put into postfix
 AB0+/CBA+-/
-CBA-+ # This one was not able to fully be put into postfix
-C # This one was not able to fully be put into postfix
+$A* # This one was not able to fully be put into postfix
+AB+ # This one was not able to fully be put into postfix (added input)
 
 
 # Descriptive Statistics, which are also found in the analysis file. 
 
 Operators Statistics: 
 Min prefix operators: 1 
-Max prefix operators: 5 
+Max prefix operators: 6 
 
-Min postfix operators: 0 
-Max postfix operators:  
+Min postfix operators: 1
+Max postfix operators: 5 
 
 
 Stack Statistics:
