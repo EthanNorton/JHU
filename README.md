@@ -36,7 +36,7 @@ Efficiently (as possible) converts prefix to postfix. Ideally, all prefix would 
 
 ### Lessons Learned
 
-Sometimes programming does not go as planned. Perserve through the bugs and try to nail the solution. Keep in mind that you are coding for a purpose greater than yourself.
+Sometimes programming does not go as planned. Perservere through the bugs and try to nail the solution. Keep in mind that you are coding for a purpose greater than yourself.
 
 ### Uniqueness
 
