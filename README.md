@@ -28,7 +28,7 @@ The motivation for this project was to build data structures and algorithms skil
   
  ### Architecting 
 
-I built this project in order to grow my knowledge of programming. Also, I hope to provide enhancements that will allevaite coding pain of the JHU community.
+I built this project in order to grow my knowledge of programming. Also, I hope to provide enhancements that will alleviate coding pain of the JHU community.
 
 ### Purpose
 
