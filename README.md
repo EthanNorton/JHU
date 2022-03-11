@@ -1,6 +1,7 @@
 ### Ethan Norton
 
 # Description 
+
 Hello, reader. This is the README and will serve as a great way to access files that are utilized in given project.
 
 
@@ -27,15 +28,16 @@ Efficiently completes the project. This project when then be applied as it shoul
 
 ### Lessons Learned
 
-There is always room for growth.
+There is always room for growth. Next project... 
 
 ### Uniqueness
 
-I put all of my energy into every project. 
+This file focuses on recursion, especially with respect to implementing cloud computing, through google colab. 
 
 ### Additional Features
 
-There should be add-ons in each given project.
+This project fiugred out how to link up google colab and github seamlessly.
+
 
 ### Please feel free to email me with questions: Ethannorton12@gmail.com :)
 
