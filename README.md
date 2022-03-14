@@ -19,7 +19,6 @@ Input file names
 
 # Order of Operations to run this code
 
-Insert dependent on given project.
  
  ### Motivation 
  
@@ -36,7 +35,7 @@ Efficiently completes the project. This project when then be applied as it shoul
 ### Lessons Learned
 
 Google cloud needs a lot of developing! I wish that there were more developed quantum algorithms that could efficiently recurse.
-There was quite a learning curve here with respect, 
+There was quite a learning curve here with respect to how I learned to save files in the google drive folders, to properly linking the files to github automatically.
 
 ### Uniqueness
 
