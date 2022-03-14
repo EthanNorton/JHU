@@ -19,6 +19,8 @@ Input file names
 
 # Order of Operations to run this code
 
+1. Go to [Google Colab](https://colab.research.google.com/) 
+2. Follow [this website](https://medium.com/analytics-vidhya/how-to-use-google-colab-with-github-via-google-drive-68efb23a42d) to properly utilize google colab as a shell terminal, and save to drive for interconnectedness across devices.
  
  ### Motivation 
  
