@@ -14,7 +14,7 @@ Input file names
 2. Connected to Google Cloud.
 3. Maximized postifx conversion through recursion.
 4. Compacted code.
-5. Tried to apply Quantum Computing.
+5. Tried to apply Quantum Algorithms.
 
 # Order of Operations to run this code
 
