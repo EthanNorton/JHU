@@ -10,11 +10,12 @@ Input file names
 
 # Additions of this Project 
 
-1. Incorporated globals into the coding.
-2. Connected to Google Cloud.
+1. Connected to Google colab
+2. Incorporated globals into the coding.
 3. Maximized postifx conversion through recursion.
 4. Compacted code.
 5. Tried to apply Quantum Algorithms.
+6. Tried to figure out how google cloud fits into the picture. 
 
 # Order of Operations to run this code
 
