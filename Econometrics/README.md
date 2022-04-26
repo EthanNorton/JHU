@@ -1,0 +1,2 @@
+-Discovered a statistically significant variable (through SAS) not used in modern literature. This interaction variable (meals together as a family *if a woman) is now prevalent in COVID-19! This was a publishable level paper, just was not peer-reviewed due to time constraints.
+-Collaborated with my professor in order to obtain these results. -Acquired these results using V-look up in excel files.
