@@ -4,7 +4,7 @@
 ### -Collaborated with my professor in order to obtain these results. 
 ### -Acquired these results using V-look up in excel files.
 
-# Navigation through this 
+# Navigation
 
 ### Coding - provided by Sedefka Beck's intensive coding in SAS on a huge dataset for her projects. I let her know my idea & she shared her dataset with me, which she guided along the process.
 ### Analysis and Lit Review - Mostly done by Ethan Norton (over like 3 years, but also 2 months). Some books were not mentioned in the sources.
