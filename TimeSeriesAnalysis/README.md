@@ -8,7 +8,7 @@ Hello, reader. Forecasted about three years of sulfur emissions (split into four
 
 # Navigation through this 
 
-### Code - somewhere in Junta's email.
+### Code - 
 ### Sulfur Emissions pptx - the finalized powerpoint.
 ### Stat 343_Time Series Final project - the writing sample.
 
