@@ -32,7 +32,7 @@ The driving force behind this desire was to acquire a strong foundation in the p
 
 ### Lessons Learned
 
-Oh my gosh, this class led to many late nights and growth in my analytical capabilities. Well over 100 hours, including time spent brainstorming. This sharpened my brain in many aspects.
+This class was a challenging yet enriching experience that allowed me to significantly develop my analytical skills. Through numerous late nights and countless hours of dedicated effort, including extensive brainstorming, I have acquired a deeper understanding and enhanced my abilities in the field. I am grateful for the lessons learned and growth achieved in this class.
 
 ### Uniqueness
 
