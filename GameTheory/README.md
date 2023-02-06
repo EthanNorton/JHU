@@ -6,7 +6,7 @@ Based on the findings, a lack of incentive in cooperation will result in high su
 # Navigation through this 
 
 ### Math - Done by Daniel Picolli
-### Analysis and Lit Review - Mostly done by Ethan Norton (over like 3 years, but also 2 months). Some books were not mentioned in the sources.
+### Analysis and Lit Review - Mostly done by Ethan Norton. Some books were not mentioned in the sources.
 ## Graphs - Ethan did these in excel, and were modeled off of one of the quoted papers.
 
 
