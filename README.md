@@ -19,7 +19,7 @@ The motivation for any project is to grow skills in order to enhance something.
   
  ### Architecting 
 
-I architect in order to constructively build a vector. 
+I architect in order to constructively build a project. 
 
 ### Purpose
 
