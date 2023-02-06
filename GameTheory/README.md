@@ -1,8 +1,8 @@
 # About
 
-A method based on Nash bargaining solutions is developed to explore energy consumption, in which energy companies have to negotiate their allowable energy levels with consumers.
+An innovative method leveraging Nash bargaining solutions has been devised to examine energy consumption patterns, where energy companies engage in negotiations with consumers to determine acceptable energy levels.
 
-Based on the findings, a lack of incentive in cooperation will result in high summer month consumption levels in 2050. -Further, effects of climate change on energy consumption are presented and explains how climate change may encourage cooperation among the parties to avoid higher costs in the future.
+Our findings indicate that a deficiency in cooperation could lead to elevated energy consumption during the summer months in 2050. Additionally, the ramifications of climate change on energy consumption are analyzed, revealing how the effects of climate change may foster cooperation between the parties to circumvent costly outcomes in the future.
 # Navigation through this 
 
 ### Math - Done primarily by Daniel Picolli (Mathematics major).
