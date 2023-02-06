@@ -31,7 +31,7 @@ Efficiently completes the project. We did this one in record time. Junta led the
 
 ### Lessons Learned
 
-Seasonality, SAS analysis, and how to apply these data drivne problem to a real world problem.
+Seasonality, SAS analysis, and how to apply these data driven problem to a real world problem.
 
 ### Uniqueness
 
