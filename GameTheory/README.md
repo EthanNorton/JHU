@@ -30,7 +30,7 @@ Efficiently completes the project. We did this one in record time. Pretty evenly
 
 ### Lessons Learned
 
-A little better understanding of mathmetical theorems. Daniel and I both did extremely poorly on final exam, but the theorems were not very intuitive in our defense (exams taken seperately).
+A better understanding of mathmetical theorems. 
 
 ### Uniqueness
 
