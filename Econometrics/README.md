@@ -24,7 +24,7 @@ The motivation for this project was to optimize how to husband!
   
  ### Architecting 
 
-I enjoyed this class and course very much. It changed the tracjectory of my life. I earned an A.
+I enjoyed this class and course very much. It changed the trajectory of my life. I earned an A.
 
 ### Purpose
 
