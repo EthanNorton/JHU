@@ -19,15 +19,11 @@ Code is stored with Junta Callahan.
  
  ### Motivation 
  
-The motivation for this project was to solve climate change biases!
+ The driving force behind this project was to address the issue of biases associated with climate change, and to seek solutions to mitigate their impact. The aim was to not only to enhance our understanding of the topic, but also to contribute to the larger effort of finding sustainable and effective ways to tackle the challenge of climate change. The project was based on extensive research, analysis and data-driven approaches, with the ultimate goal of providing actionable insights and recommendations that could be implemented in the real world.
   
- ### Architecting 
-
-We completed this project to earn a good grade. We earned 100/100.
-
-### Purpose
-
-Efficiently completes the project. We did this one in record time. Junta led the coding efforts.
+ ### Architecting and Purpose
+ 
+This project was undertaken with the purpose of tackling the problem of biases in relation to climate change. The objective was to gain a deeper understanding of the subject matter and contribute to the global effort of finding viable solutions to mitigate the effects of climate change. The project was methodically planned, incorporating comprehensive research, in-depth analysis, and data-driven strategies. The end goal was to offer practical insights and suggestions that could be effectively executed in the real world.
 
 ### Lessons Learned
 
