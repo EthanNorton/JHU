@@ -20,7 +20,7 @@
  
  ### Motivation 
  
-The motivation for this project was to optimize how to husband!
+The motivation for this project was to optimize how to become a more supportive spouse.
   
  ### Architecting 
 
@@ -32,7 +32,7 @@ I wanted to become a robust economist, and learn how to think like an econometri
 
 ### Lessons Learned
 
-Oh my gosh, this class led to many late nights and headaches. Well over 100 hours, including time spent brainstorming. This sharpened my brain in many aspects!
+Oh my gosh, this class led to many late nights and growth in my analytical capabilities. Well over 100 hours, including time spent brainstorming. This sharpened my brain in many aspects.
 
 ### Uniqueness
 
