@@ -34,10 +34,6 @@ Innovative Method of Examining Energy Consumption Through Nash Bargaining Soluti
 
 ### Uniqueness
 
-This one also became relavent.
-
-### Additional Features
-
-Pretty straightforward project!
+ This project takes a groundbreaking approach to examining energy consumption patterns by utilizing Nash bargaining solutions. The negotiations between energy companies and consumers present a fresh perspective on establishing energy levels that are acceptable to both parties. Our findings showcase the importance of cooperation in this process, revealing how a lack of cooperation could lead to elevated energy consumption in 2050 during the summer months. Furthermore, our analysis dives deep into the impact of climate change on energy consumption, illuminating how its consequences could drive cooperation and avoid costly outcomes in the future.
 
 ### Please feel free to email me with questions: Ethannorton12@gmail.com :)
