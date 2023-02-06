@@ -27,7 +27,7 @@ We completed this project to earn a good grade. We got 100/100.
 
 ### Purpose
 
-Efficiently completes the project. We did this one in record time. Junta did all of the coding.
+Efficiently completes the project. We did this one in record time. Junta led the coding efforts.
 
 ### Lessons Learned
 
