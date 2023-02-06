@@ -3,7 +3,7 @@
 
 
 # Description 
-Hello, reader. Forecasted about three years of sulfur emissions (split into four quarters). We will look into forecasting future sulfur emissions. In total, this data is crucial to study due to future levels of emissions. If these levels are projected to worsen, then we should be mindful of that. -Built various models through SAS programming: Classical Decomposition, ARMA modeling. -Tested to discover the best model with: shapiro-wilk testing, white noise probability, holt winters exponential smoothing, QQ plot, as well as calculated SSE values.
+Greetings, esteemed reader. This analysis pertains to the forecasting of sulfur emissions over a three-year period, divided into four quarters. Our objective is to accurately predict future levels of sulfur emissions, as they are a crucial factor in determining the future impact on the environment. By constructing multiple models through SAS programming, including Classical Decomposition and ARMA modeling, we have thoroughly evaluated the best model through a variety of statistical tests such as Shapiro-Wilk testing, White Noise Probability, Holt Winters Exponential Smoothing, QQ Plot, and calculation of Sum of Squared Error values.
 
 
 # Navigation through this 
