@@ -26,11 +26,11 @@ We completed this project to earn a good grade. We got A-.
 
 ### Purpose
 
-Efficiently completes the project. We did this one in record time. Pretty evenly spread workload.
+"The purpose of this project is to explore a new and inventive method of studying energy consumption patterns through the lens of Nash bargaining solutions. This method involves negotiations between energy companies and consumers to establish mutually acceptable energy levels. Our research has uncovered that a lack of cooperation between the parties could result in increased energy consumption in 2050 during the summer months. Moreover, our analysis delves into the impact of climate change on energy consumption and shows how the consequences of a changing climate could motivate cooperation and prevent costly outcomes in the future.
 
 ### Lessons Learned
 
-A better understanding of mathmetical theorems. 
+Innovative Method of Examining Energy Consumption Through Nash Bargaining Solutions, Importance of Cooperation in Energy Negotiations, and Analysis of Climate Change's Impact on Energy Consumption and its Potential to Promote Cooperation and Avoid Costly Outcomes.
 
 ### Uniqueness
 
