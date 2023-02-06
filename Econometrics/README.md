@@ -36,10 +36,10 @@ Oh my gosh, this class led to many late nights and growth in my analytical capab
 
 ### Uniqueness
 
-This one also became relavent.
+This one became relavent in COVID-19.
 
 ### Additional Features
 
-This one is hard to read through, I apologize. I dived so deep into this one, but there were some interesting discoveries.
+I apologize for the difficulty in reading this. I delved deeply into this subject and made some intriguing findings.
 
 ### Please feel free to email me with questions: Ethannorton12@gmail.com :)
