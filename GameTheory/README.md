@@ -18,7 +18,7 @@ Based on the findings, a lack of incentive in cooperation will result in high su
  
  ### Motivation 
  
-The motivation for this project was to solve climate change biases!
+The objective behind this project was to address biases related to climate change, enhance analytical abilities, and integrate the outcomes of game theory studies into the class curriculum.
   
  ### Architecting 
 
