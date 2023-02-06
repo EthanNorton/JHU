@@ -20,7 +20,7 @@
  
  ### Motivation 
  
-The motivation for this project was to optimize how to become a more supportive spouse.
+The driving force behind this project was to explore ways of becoming a more supportive and understanding spouse. The aim was to better understand the needs and desires of the partner, and to provide the necessary support and care in a relationship. The project was based on extensive research, self-reflection and introspection, with the ultimate goal of strengthening the bond and improving the overall satisfaction in the relationship. This effort was made with the intention of creating a happier and more fulfilling relationship, not only for oneself, but for the partner as well. The outcome of this project has the potential to provide valuable insights for couples seeking to strengthen their bond and improve their relationships.
   
  ### Architecting 
 
