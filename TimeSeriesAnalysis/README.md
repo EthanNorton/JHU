@@ -33,8 +33,5 @@ Seasonality, SAS analysis, and how to apply these data driven problem to a real 
 
  We have determined the most accurate approach through thorough statistical evaluations and error measurements. Join us on this journey to uncover valuable insights into the future of sulfur emissions!
 
-### Additional Features
-
-We presented this pretty well, and covered the whole topic.
 
 ### Please feel free to email me with questions: Ethannorton12@gmail.com :)
