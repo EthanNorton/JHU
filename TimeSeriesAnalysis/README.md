@@ -23,7 +23,7 @@ The motivation for this project was to solve climate change biases!
   
  ### Architecting 
 
-We completed this project to earn a good grade. We got 100/100.
+We completed this project to earn a good grade. We earned 100/100.
 
 ### Purpose
 
