@@ -36,7 +36,7 @@ This class was a challenging yet enriching experience that allowed me to signifi
 
 ### Uniqueness
 
-This one became relavent in COVID-19.
+The significance of this issue became increasingly relevant in the context of the COVID-19 pandemic. The pandemic has brought to light the need for effective and efficient solutions in various industries, including healthcare, education, and the economy. In this context, the relevance of this issue has grown as it offers valuable insights and potential solutions for addressing some of the challenges posed by the pandemic. 
 
 ### Additional Features
 
