@@ -28,7 +28,7 @@ I enjoyed this class and course very much. It changed the trajectory of my life.
 
 ### Purpose
 
-I wanted to become a robust economist, and learn how to think like an econometrician.
+The driving force behind this desire was to acquire a strong foundation in the principles of economics and to develop a deep understanding of the tools and techniques used by econometricians. I saw this as an opportunity to not only gain a comprehensive knowledge of the subject, but also to cultivate critical thinking and problem-solving skills that are essential to success in this field. Through rigorous training, I hoped to be able to apply econometric methods to real-world problems and contribute to the advancement of this discipline. In short, I aimed to become an expert in econometrics, with the ability to think creatively, analyze data effectively, and make informed decisions.
 
 ### Lessons Learned
 
