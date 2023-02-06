@@ -15,7 +15,7 @@ Hello, reader. Forecasted about three years of sulfur emissions (split into four
 
 # Order of Operations to run this code
 
-Code is stored with Junta Callahan, or maybe not. He is kind of forgetful.
+Code is stored with Junta Callahan.
  
  ### Motivation 
  
@@ -31,7 +31,7 @@ Efficiently completes the project. We did this one in record time. Junta did all
 
 ### Lessons Learned
 
-Do not tell Junta "all you did was press some buttons." All hell will break loose.
+Seasonality, SAS analysis, and how to apply these data drivne problem to a real world problem.
 
 ### Uniqueness
 
