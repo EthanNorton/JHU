@@ -26,7 +26,7 @@ We completed this project to earn a good grade. We got A-.
 
 ### Purpose
 
-"The purpose of this project is to explore a new and inventive method of studying energy consumption patterns through the lens of Nash bargaining solutions. This method involves negotiations between energy companies and consumers to establish mutually acceptable energy levels. Our research has uncovered that a lack of cooperation between the parties could result in increased energy consumption in 2050 during the summer months. Moreover, our analysis delves into the impact of climate change on energy consumption and shows how the consequences of a changing climate could motivate cooperation and prevent costly outcomes in the future.
+The purpose of this project is to explore a new and inventive method of studying energy consumption patterns through the lens of Nash bargaining solutions. This method involves negotiations between energy companies and consumers to establish mutually acceptable energy levels. Our research has uncovered that a lack of cooperation between the parties could result in increased energy consumption in 2050 during the summer months. Moreover, our analysis delves into the impact of climate change on energy consumption and shows how the consequences of a changing climate could motivate cooperation and prevent costly outcomes in the future.
 
 ### Lessons Learned
 
