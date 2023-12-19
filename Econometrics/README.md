@@ -7,7 +7,7 @@
 # Navigation
 
 ### Coding - provided by Sedefka Beck's intensive coding in SAS on a huge dataset for her projects. I let her know my idea & she shared her dataset with me, which she guided along the process.
-### Analysis and Lit Review - Mostly done by Ethan Norton. Some books were not mentioned in the sources.
+### Analysis and Lit Review - Mostly done by Ethan Norton. 
 ### Graphs - I did these in SAS, which was my first coding language.
 ### Professor of class - Sara Gundersen.
 
@@ -24,7 +24,7 @@ The driving force behind this project was to explore ways of becoming a more sup
   
  ### Architecting 
 
-I enjoyed this class and course very much. It changed the trajectory of my life. I earned an A.
+I enjoyed this class and course very much.  I earned an A.
 
 ### Purpose
 
@@ -40,6 +40,6 @@ The significance of this issue became increasingly relevant in the context of th
 
 ### Additional Features
 
-I apologize for the difficulty in reading this. I delved deeply into this subject and made some intriguing findings.
+ I deived deeply into this subject and made some intriguing findings.
 
 ### Please feel free to email me with questions: Ethannorton12@gmail.com :)
